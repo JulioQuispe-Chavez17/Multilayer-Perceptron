@@ -1,0 +1,20 @@
+.spinner{
+  margin-top:10px;
+  margin-bottom:10px;
+  width: 240px;
+  height: 32px;
+  font-size: 16;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: rgb(34, 33, 33);
+  background-color: transparent;
+}
+
+.spinner :active {
+  border-color: rgb(75, 65, 173);
+  box-shadow: 0 5px rgb(75, 65, 173);
+}

@@ -1,0 +1,14 @@
+.container{
+        width: 200px;       
+        height: 200px;
+        margin: 0 auto;
+        justify-content: center;
+}
+
+.button{
+  width: 280px;
+  margin-bottom: 7px;
+}
+.alert{
+  width: 250px;
+}

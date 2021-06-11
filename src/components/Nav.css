@@ -1,0 +1,27 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    font-size: 24px;
+    list-style-type: none;
+    
+}
+.nav > li {  
+  flex: 1;  
+}
+
+.item {
+
+  padding: 10px;
+}
+
+.item :hover {
+  color: white
+}
+
+.link{
+  color: rgba(231, 231, 231, 0.918);
+}
