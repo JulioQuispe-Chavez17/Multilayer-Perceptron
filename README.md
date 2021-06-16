@@ -24,6 +24,8 @@ Los estudiantes del Insitituto Valle Grande - Lima - Perù  ha realizaod una inv
 - AzureML
 - BigML
 - Google Drive
+-
+
 ![image](https://user-images.githubusercontent.com/55814963/122142722-a3a3fb00-ce15-11eb-9d2d-041e59360261.png)
 ![image](https://user-images.githubusercontent.com/55814963/122142605-71929900-ce15-11eb-8bec-542025eb51fa.png)
 ![image](https://user-images.githubusercontent.com/55814963/122142628-7a836a80-ce15-11eb-9c46-d33c4fcc24c5.png)
@@ -39,4 +41,5 @@ Los estudiantes del Insitituto Valle Grande - Lima - Perù  ha realizaod una inv
 # DESARROLLO
 
 # CLASIFICACIÒN
+
 
