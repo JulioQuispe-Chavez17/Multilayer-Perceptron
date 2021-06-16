@@ -44,9 +44,11 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 1. Zoom
 2. Google Meet
 3. Correo Electronico
+
+
 ![image](https://user-images.githubusercontent.com/55814963/122266016-f249a780-ce9e-11eb-8a13-5ba3c1b708b1.png)
 ![image](https://user-images.githubusercontent.com/55814963/122266033-f7a6f200-ce9e-11eb-8ff6-35267b2fe690.png)
-![image](https://user-images.githubusercontent.com/55814963/122266047-fb3a7900-ce9e-11eb-9602-01c216c577cf.png)
+![image](https://user-images.githubusercontent.com/55814963/122266101-0f7e7600-ce9f-11eb-84ff-e6fe75ea5cb7.png)
 
 
 
