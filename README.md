@@ -19,6 +19,12 @@ Un gran docente por la capacidad y carisma que entrega en la enseñanza a sus es
 
 ![image](https://user-images.githubusercontent.com/55814963/122269677-1909dd00-cea3-11eb-9530-27de82829437.png)
 
+Instituto Valle Grande - Cañete - Lima - Perù
+Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
+
+![image](https://user-images.githubusercontent.com/55814963/122269801-3b9bf600-cea3-11eb-9ab3-f6b60974979e.png)
+
+
 
 # INTRODUCCIÒN
 
