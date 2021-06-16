@@ -16,7 +16,8 @@ Implementación de las soluciones de Machine Learning mediante una aplicación W
 Prof. Giancarlo Valencia 
 
 Un gran docente por la capacidad y carisma que entrega en la enseñanza a sus estudiantes.
-![image](https://user-images.githubusercontent.com/55814963/122269485-e1029a00-cea2-11eb-8fb1-c9e9918e3844.png)
+
+![image](https://user-images.githubusercontent.com/55814963/122269677-1909dd00-cea3-11eb-9530-27de82829437.png)
 
 
 # INTRODUCCIÒN
