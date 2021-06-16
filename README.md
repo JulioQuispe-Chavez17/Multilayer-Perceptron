@@ -7,8 +7,11 @@ Implementación de las soluciones de Machine Learning mediante una aplicación W
 
 # Equipo
 (Julio Quispe - Wilmer Meza)
+ 
+ ![image](https://user-images.githubusercontent.com/55814963/122142942-009fb100-ce16-11eb-8ddf-4fd34236d2d7.png)
 
-# Introduccion
+
+# INTRODUCCIÒN
 
 Los estudiantes del Insitituto Valle Grande - Lima - Perù  ha realizaod una investigaciòn donde explica la claisifaciòn de una clase de red neuronal artificial de retroalimentació llama Multilayer Perceptron( MLP) es excelente para MNIST, con un conjunto de datos más simple y directo, con una visiòn por computadora, a traves de imágenes.
 
@@ -34,3 +37,6 @@ Los estudiantes del Insitituto Valle Grande - Lima - Perù  ha realizaod una inv
 
 
 # DESARROLLO
+
+# CLASIFICACIÒN
+
