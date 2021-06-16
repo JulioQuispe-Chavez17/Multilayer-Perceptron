@@ -1,50 +1,15 @@
+## Árbol de Decisión con AzureML (classic) y JavaEE
+### Consumo de un API de Machine Learning desde la plataforma Web services de Azure Machine Learning con JavaEE
 
-# Trabajo 6 - Implementación de AI
-### Tema: Multilayer-Perceptron
+* <a href="https://studio.azureml.net/"> <img src="https://todobi.com/content/images/2020/06/Nub8-Machine-Learning-With-Azure-2.jpg" width="25%"></a> 
+* Java JDK 11 <a href="https://www.oracle.com/java/technologies/javase-downloads.html"><img src="https://4.bp.blogspot.com/-6ftI-9GF0Do/WbnhQIig2_I/AAAAAAAAM0U/nWQ0FuvALnUbQNOa25PlrS25h0--Lm0EACLcBGAs/s1600/javaee-logo.png" width="20%"></a> 
+* Frameworks:
+* <a href="https://www.primefaces.org/"><img src ="https://www.primefaces.org/wp-content/uploads/2018/05/primefaces-logo.png" width="20%"> </a>
 
-# Objetivos
-Implementación de las soluciones de Machine Learning mediante una aplicación Web y/o móvil con Java EE, Spring Boot, Angular, React, etc.
-
-# Equipo
-(Julio Quispe - Wilmer Meza)
- 
- ![image](https://user-images.githubusercontent.com/55814963/122142942-009fb100-ce16-11eb-8ddf-4fd34236d2d7.png)
-
-
-# INTRODUCCIÒN
-
-Los estudiantes del Insitituto Valle Grande - Lima - Perù  ha realizaod una investigaciòn donde explica la claisifaciòn de una clase de red neuronal artificial de retroalimentació llama Multilayer Perceptron( MLP) es excelente para MNIST, con un conjunto de datos más simple y directo, con una visiòn por computadora, a traves de imágenes.
-
-![image](https://user-images.githubusercontent.com/55814963/122142465-2aa4a380-ce15-11eb-8938-fb9cc04550ab.png)
-
-
-# HERRAMIENTAS
-
-- Java EE
-- AzureML
-- BigML
-- Google Drive
-
-
-![image](https://user-images.githubusercontent.com/55814963/122142722-a3a3fb00-ce15-11eb-9d2d-041e59360261.png)
-![image](https://user-images.githubusercontent.com/55814963/122142605-71929900-ce15-11eb-8bec-542025eb51fa.png)
-![image](https://user-images.githubusercontent.com/55814963/122142628-7a836a80-ce15-11eb-9c46-d33c4fcc24c5.png)
-![image](https://user-images.githubusercontent.com/55814963/122142674-8f5ffe00-ce15-11eb-84f4-e7c73477204a.png)
-![image](https://user-images.githubusercontent.com/55814963/122142691-97b83900-ce15-11eb-81c6-5e02067bc9df.png)
-
-
-
-
-
-
-
-
-# DESARROLLO
-
-# CLASIFICACIÒN
-
-# RESUMEN
-En este trabajo de investigaciòn, descubrió las redes neuronales artificiales para el aprendizaje automático.
-
-
-
+* Dependencias:
+* lombok-1.18.20
+* primefaces-1.7
+* gson-2.8.6
+* okhttp-4.2.2
+* <a href="https://www.payara.fish/"><img src ="https://user-images.githubusercontent.com/939073/66403788-1ae98080-e9df-11e9-8aab-f5f79653209a.png" width="15%"> </a>
+* <a href="https://maven.apache.org/"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" width="15%"> </a>

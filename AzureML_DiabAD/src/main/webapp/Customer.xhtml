@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+<h:head>
+    <title>Facelet Title</title>
+</h:head>
+<h:body >
+    <p:growl showDetail="true" id="msg"/>
+    <center>
+        <h1> Redes Neuronales - Renueva el servicio o no? </h1>
+        <div style="width: 95%; margin-left: auto; margin-right: auto;" >
+            <h:form id="predicion">
+
+                <p:panelGrid>
+                    <p:row>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered">
+                            <p:outputLabel value="Customer service calls"/>
+                        </p:column>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered;">
+                            <p:outputLabel value="Number vmail messages"/>
+                        </p:column>
+
+
+                    </p:row>
+                    <p:row>
+                        <p:column>
+                            <p:spinner id="customer_service_calls" value="#{customerC.customer.customer_service_calls}" min="6" max="96" />
+                        </p:column>
+                        <p:column>
+                            <p:slider for="customer_service_calls"  step="1" minValue="6" maxValue="96" style="width: 220px"/>
+                        </p:column>
+                        <p:column>
+                            <p:inputText id="number_vmail_messages" value="#{customerC.customer.number_vmail_messages}" size="38"/>
+                        </p:column>
+                        <p:column>
+                            <p:slider for="number_vmail_messages" step="1" minValue="0" maxValue="248" style="width: 220px"/>
+                        </p:column>
+
+
+                    </p:row>
+                    <!--                    <p:row>
+                                            <p:column colspan="4" styleClass="ui-widget-header" style="background: white">
+                                                <p:spacer height="0"/>
+                                            </p:column>
+                                        </p:row>-->
+                    <p:row>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered">
+                            <p:outputLabel value="Total intl calls"/>
+                        </p:column>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered;">
+                            <p:outputLabel value="Total day minutes"/>
+                        </p:column>
+
+                    </p:row>
+                    <p:row>
+
+                        <p:column>
+                            <p:inputText id="total_intl_calls" value="#{customerC.customer.total_intl_calls}" size="38"/>
+                        </p:column>
+                        <p:column>
+                            <p:slider for="total_intl_calls" step="1" minValue="0" maxValue="2480" style="width: 220px"/>
+                        </p:column>
+                        <p:column>
+                            <p:inputText id="total_Day_Minutes" value="#{customerC.customer.total_Day_Minutes}" size="38"/>
+                        </p:column>
+                        <p:column>
+                            <p:slider for="total_Day_Minutes" step="1" minValue="0" maxValue="2480" style="width: 220px"/>
+                        </p:column>
+
+                    </p:row>
+
+                    <p:row>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered">
+                            <p:outputLabel value="Total night minutes"/>
+                        </p:column>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered;">
+                            <p:outputLabel value="Total eve minutes"/>
+                        </p:column>
+
+                    </p:row>
+                    <p:row>
+                        <p:column>
+                            <p:inputText id="total_night_minutes" value="#{customerC.customer.total_night_minutes}" size="38"/>
+                        </p:column>
+                        <p:column>
+                            <p:slider for="total_night_minutes" step="1" minValue="0" maxValue="2480" style="width: 220px"/>
+                        </p:column>
+                        <p:column>
+                            <p:inputText id="total_eve_minutes" value="#{customerC.customer.total_eve_minutes}" size="38"/>
+                        </p:column>
+                        <p:column>
+                            <p:slider for="total_eve_minutes" step="1" minValue="0" maxValue="2480" style="width: 220px"/>
+                        </p:column>
+                    </p:row>
+
+                    <p:row>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered">
+                            <p:outputLabel value="International Plan"/>
+                        </p:column>
+                        <p:column colspan="2" style="font-weight: bold; color: orangered;">
+                            <p:outputLabel value="Voice Mail Plan"/>
+                        </p:column>
+                    </p:row>
+                    <p:row>
+                        <p:column>
+                            <p:selectBooleanCheckbox value="#{customerC.customer.international_plan}" itemLabel="Yes"/>
+                        </p:column>
+                        <p:column/>
+                        <p:column>
+                            <p:selectBooleanCheckbox value="#{customerC.customer.voice_mail_plan}" itemLabel="Yes"/>
+                        </p:column>
+                        <p:column/>
+                    </p:row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p:panelGrid>
+                <p:commandButton value="Ver Resultados" actionListener="#{customerC.obtenerDatos}"
+                                 update=":predicion :msg :dialog" oncomplete="PF('predice').show();"/>
+            </h:form>
+
+            <p:dialog widgetVar="predice" id="dialog" modal="true" width="600" header="Consumo del Modelo ML con Azure">
+                <p:panelGrid>
+                    <p:row>
+                        <p:column colspan="3">
+                            <h3>Resultados de predicción</h3>
+                        </p:column>
+                    </p:row>
+
+                    <p:row>
+                        <p:column colspan="2">
+                            <p:outputLabel value="#{customerC.customer.result}"/>
+                        </p:column>
+                        <p:column rowspan="2">
+                            <img src="https://todobi.com/content/images/2020/06/Nub8-Machine-Learning-With-Azure-2.jpg" border="0" width="200" height="200"/>
+                        </p:column>
+                    </p:row>
+
+
+                </p:panelGrid>
+            </p:dialog>
+        </div>
+    </center>
+</h:body>
+</html>
+
+

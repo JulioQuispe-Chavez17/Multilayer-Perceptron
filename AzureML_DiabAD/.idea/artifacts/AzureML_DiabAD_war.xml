@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AzureML_DiabAD:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>AzureML_DiabAD</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="AzureML_DiabAD-1.war">
+      <element id="artifact" artifact-name="AzureML_DiabAD:war exploded" />
+    </root>
+  </artifact>
+</component>
