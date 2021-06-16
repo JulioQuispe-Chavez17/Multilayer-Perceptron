@@ -13,13 +13,13 @@
 
 # AGRADECIMIENTO
 
-Prof. Giancarlo Valencia 
+#### Prof. Giancarlo Valencia 
 
 Un gran docente por la capacidad y carisma que entrega en la enseñanza a sus estudiantes.
 
 ![image](https://user-images.githubusercontent.com/55814963/122269677-1909dd00-cea3-11eb-9530-27de82829437.png)
 
-Instituto Valle Grande - Cañete - Lima - Perù
+#### Instituto Valle Grande - Cañete - Lima - Perù
 
 Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
@@ -69,7 +69,9 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 - Hemos realizado otro trabajo para profundizar más la investigación, eligiendo una empresa de telecomunicación, que lo que busca es reducir la tasa de deserción de los clientes a cuanto su servicio y con nuestro modelo buscamos informar cuales clientes están cerca de retirarse.
 
-![image](https://user-images.githubusercontent.com/55814963/122268912-45712980-cea2-11eb-8bb4-bf5130da5f79.png)
+![image](https://user-images.githubusercontent.com/55814963/122270730-3db28480-cea4-11eb-91ac-666cf8362cf9.png)
+![image](https://user-images.githubusercontent.com/55814963/122270752-42773880-cea4-11eb-9b89-476caec13a06.png)
+
 
 
 # REGIONES POR CAPAS DE PERCEPTRÒN MULTICAPA
@@ -91,6 +93,8 @@ Arquitectura de un perceptrón multicapa (PMC) con dos capas ocultas
 • Representación gráfica de 3 capas
 • Cálculo de las salidas en cada capa
 • Criterio: suma del error cuadrático instantáneo
+![image](https://user-images.githubusercontent.com/55814963/122270796-4d31cd80-cea4-11eb-9840-a387e908b0f5.png)
+
 
 
 # CONCLUSIÒN
