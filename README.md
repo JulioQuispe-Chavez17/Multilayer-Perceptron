@@ -59,6 +59,17 @@ En este trabajo se realizó y aplicó el algoritmo de la inteligencia artificial
 Hemos realizado otro trabajo para profundizar más la investigación, eligiendo una empresa de telecomunicación, que lo que busca es reducir la tasa de deserción de los clientes a cuanto su servicio y con nuestro modelo buscamos informar cuales clientes están cerca de retirarse.
 
 
+
+# REGIONES POR CAPAS 
+
+![image](https://user-images.githubusercontent.com/55814963/122268248-756bfd00-cea1-11eb-8d07-90ef8012650d.png)
+
+# ARQUITECTURA
+Arquitectura de un perceptrón multicapa (PMC) con dos capas ocultas
+![image](https://user-images.githubusercontent.com/55814963/122268328-8d438100-cea1-11eb-929e-3c5faeea7399.png)
+
+
+
 # RESUMEN
 
 Finalmente una Red Neuronal es un modelo matemático inspirado en el comportamiento biológico de las neuronas y en la estructura del cerebro, y que es utilizada para resolver un amplio rango de problemas. 
