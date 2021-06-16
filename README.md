@@ -24,7 +24,7 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 
 
 
-# HERRAMIENTAS
+# HERRAMIENTAS DE TRABAJO
 1. Java EE
 2. AzureML
 3. BigML
@@ -40,6 +40,13 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 ![image](https://user-images.githubusercontent.com/55814963/122142691-97b83900-ce15-11eb-81c6-5e02067bc9df.png)
 ![image](https://user-images.githubusercontent.com/55814963/122265746-b282c000-ce9e-11eb-8f88-ca8b5f3b692e.png)
 
+# HERRAMIENTA DE INTERACCIÒN
+1. Zoom
+2. Google Meet
+3. Correo Electronico
+![image](https://user-images.githubusercontent.com/55814963/122266016-f249a780-ce9e-11eb-8a13-5ba3c1b708b1.png)
+![image](https://user-images.githubusercontent.com/55814963/122266033-f7a6f200-ce9e-11eb-8ff6-35267b2fe690.png)
+![image](https://user-images.githubusercontent.com/55814963/122266047-fb3a7900-ce9e-11eb-9602-01c216c577cf.png)
 
 
 
