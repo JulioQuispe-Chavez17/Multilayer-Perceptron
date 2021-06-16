@@ -1,11 +1,11 @@
 
-# Trabajo 6 - Implementación de AI
-### Tema: Multilayer-Perceptron
+# TRABAJO 06 - Implementación de AI
+### TEMA: Multilayer-Perceptron
 
-# Objetivo
+# OBJETIVO
 1. Implementación de las soluciones de Machine Learning mediante una aplicación Web y/o móvil con Java EE, Spring Boot, Angular, React, etc.
 
-# Equipo
+# EQUIPO
 (Julio Quispe - Wilmer Meza)
 
 ![image](https://user-images.githubusercontent.com/55814963/122267311-59b42700-cea0-11eb-80a8-cf841571e81c.png) 
