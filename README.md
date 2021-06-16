@@ -51,14 +51,16 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 ![image](https://user-images.githubusercontent.com/55814963/122266101-0f7e7600-ce9f-11eb-84ff-e6fe75ea5cb7.png)
 
 
-
-
-
-
-
-
-
 # DESARROLLO
+En este trabajo se realizó y aplicó el algoritmo de la inteligencia artificial  mediante el reconocimiento a través de gráficos (escritos o imágenes) entre ella sus clasificación de redes neuronales con el objetivo de crear modelos artificiales que solucionen problemas difíciles de resolver mediante técnicas algorítmicas convencionales.
+
+Hemos realizado otro trabajo para profundizar más la investigación, eligiendo una empresa de telecomunicación, que lo que busca es reducir la tasa de deserción de los clientes a cuanto su servicio y con nuestro modelo buscamos informar cuales clientes están cerca de retirarse.
+
+
+# RESUMEN
+
+Finalmente una Red Neuronal es un modelo matemático inspirado en el comportamiento biológico de las neuronas y en la estructura del cerebro, y que es utilizada para resolver un amplio rango de problemas. 
+
 
 
 
