@@ -43,4 +43,8 @@ Los estudiantes del Insitituto Valle Grande - Lima - Perù  ha realizaod una inv
 
 # CLASIFICACIÒN
 
+# RESUMEN
+En este trabajo de investigaciòn, descubrió las redes neuronales artificiales para el aprendizaje automático.
+
+
 
