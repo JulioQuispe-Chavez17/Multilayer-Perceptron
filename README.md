@@ -20,14 +20,17 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 
 
 ![image](https://user-images.githubusercontent.com/55814963/122142465-2aa4a380-ce15-11eb-8938-fb9cc04550ab.png)
+![image](https://user-images.githubusercontent.com/55814963/122265602-8b2bf300-ce9e-11eb-9b06-18aa4b7f0a14.png)
+
 
 
 # HERRAMIENTAS
-
-- Java EE
-- AzureML
-- BigML
-- Google Drive
+1. Java EE
+2. AzureML
+3. BigML
+4. Google Drive
+5. Sprint Boot
+6. React JS 
 
 
 ![image](https://user-images.githubusercontent.com/55814963/122142722-a3a3fb00-ce15-11eb-9d2d-041e59360261.png)
@@ -35,6 +38,9 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 ![image](https://user-images.githubusercontent.com/55814963/122142628-7a836a80-ce15-11eb-9c46-d33c4fcc24c5.png)
 ![image](https://user-images.githubusercontent.com/55814963/122142674-8f5ffe00-ce15-11eb-84f4-e7c73477204a.png)
 ![image](https://user-images.githubusercontent.com/55814963/122142691-97b83900-ce15-11eb-81c6-5e02067bc9df.png)
+![image](https://user-images.githubusercontent.com/55814963/122265746-b282c000-ce9e-11eb-8f88-ca8b5f3b692e.png)
+
+
 
 
 
@@ -44,6 +50,8 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 
 
 # DESARROLLO
+
+
 
 # CLASIFICACIÒN
 
