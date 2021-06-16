@@ -7,9 +7,8 @@ Implementación de las soluciones de Machine Learning mediante una aplicación W
 
 # Equipo
 (Julio Quispe - Wilmer Meza)
- 
+
  ![image](https://user-images.githubusercontent.com/55814963/122142942-009fb100-ce16-11eb-8ddf-4fd34236d2d7.png)
- 
 ![image](https://user-images.githubusercontent.com/55814963/122267088-19ed3f80-cea0-11eb-9764-fedbecdbcf5a.png)
 
 
