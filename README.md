@@ -8,4 +8,6 @@ Implementación de las soluciones de Machine Learning mediante una aplicación W
 # Equipo
 (Julio Quispe - Wilmer Meza)
 
+# Introduccion
+
 # Desarrollo
