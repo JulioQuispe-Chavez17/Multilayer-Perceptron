@@ -2,8 +2,8 @@
 # Trabajo 6 - Implementación de AI
 ### Tema: Multilayer-Perceptron
 
-# Objetivos
-Implementación de las soluciones de Machine Learning mediante una aplicación Web y/o móvil con Java EE, Spring Boot, Angular, React, etc.
+# Objetivo
+1. Implementación de las soluciones de Machine Learning mediante una aplicación Web y/o móvil con Java EE, Spring Boot, Angular, React, etc.
 
 # Equipo
 (Julio Quispe - Wilmer Meza)
@@ -14,7 +14,6 @@ Implementación de las soluciones de Machine Learning mediante una aplicación W
 # AGRADECIMIENTO
 
 Prof. Giancarlo Valencia 
-
 Un gran docente por la capacidad y carisma que entrega en la enseñanza a sus estudiantes.
 
 ![image](https://user-images.githubusercontent.com/55814963/122269677-1909dd00-cea3-11eb-9530-27de82829437.png)
@@ -25,18 +24,15 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 ![image](https://user-images.githubusercontent.com/55814963/122269801-3b9bf600-cea3-11eb-9ab3-f6b60974979e.png)
 
 
-
 # INTRODUCCIÒN
+- Los estudiantes del Instituto Valle Grande - Lima - Perù ha realizado una investigaciòn donde explica la claisifaciòn de una clase de red neuronal artificial de retroalimentación llamada  Multilayer Perceptron( MLP) que es excelente para MNIST, con un conjunto de datos más simple y directo, con una visiòn por computadora, a través de imágenes y/o letras.
 
-Los estudiantes del Instituto Valle Grande - Lima - Perù ha realizado una investigaciòn donde explica la claisifaciòn de una clase de red neuronal artificial de retroalimentación llamada  Multilayer Perceptron( MLP) que es excelente para MNIST, con un conjunto de datos más simple y directo, con una visiòn por computadora, a través de imágenes y/o letras.
 
-
-Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java EE, azure ML, Big ML, Google drive para el almacenamiento de nuestros archivos y documentos.
+- Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java EE, azure ML, Big ML, Google drive para el almacenamiento de nuestros archivos y documentos.
 
 
 ![image](https://user-images.githubusercontent.com/55814963/122142465-2aa4a380-ce15-11eb-8938-fb9cc04550ab.png)
 ![image](https://user-images.githubusercontent.com/55814963/122265602-8b2bf300-ce9e-11eb-9b06-18aa4b7f0a14.png)
-
 
 
 # HERRAMIENTAS DE TRABAJO
@@ -67,14 +63,14 @@ Aplicando herramientas para el desarrollo y manejo tales como Sprint boot, Java 
 
 
 # DESARROLLO
-En este trabajo se realizó y aplicó el algoritmo de la inteligencia artificial  mediante el reconocimiento a través de gráficos (escritos o imágenes) entre ella sus clasificación de redes neuronales con el objetivo de crear modelos artificiales que solucionen problemas difíciles de resolver mediante técnicas algorítmicas convencionales.
+- En este trabajo se realizó y aplicó el algoritmo de la inteligencia artificial  mediante el reconocimiento a través de gráficos (escritos o imágenes) entre ella sus clasificación de redes neuronales con el objetivo de crear modelos artificiales que solucionen problemas difíciles de resolver mediante técnicas algorítmicas convencionales.
 
-Hemos realizado otro trabajo para profundizar más la investigación, eligiendo una empresa de telecomunicación, que lo que busca es reducir la tasa de deserción de los clientes a cuanto su servicio y con nuestro modelo buscamos informar cuales clientes están cerca de retirarse.
+- Hemos realizado otro trabajo para profundizar más la investigación, eligiendo una empresa de telecomunicación, que lo que busca es reducir la tasa de deserción de los clientes a cuanto su servicio y con nuestro modelo buscamos informar cuales clientes están cerca de retirarse.
 
 ![image](https://user-images.githubusercontent.com/55814963/122268912-45712980-cea2-11eb-8bb4-bf5130da5f79.png)
 
 
-# REGIONES POR CAPAS 
+# REGIONES POR CAPAS DE PERCEPTRÒN MULTICAPA
 
 ![image](https://user-images.githubusercontent.com/55814963/122268248-756bfd00-cea1-11eb-8d07-90ef8012650d.png)
 
@@ -84,19 +80,18 @@ Arquitectura de un perceptrón multicapa (PMC) con dos capas ocultas
 ![image](https://user-images.githubusercontent.com/55814963/122268328-8d438100-cea1-11eb-929e-3c5faeea7399.png)
 
 
-
 # RESUMEN
 
-Finalmente una Red Neuronal es un modelo matemático inspirado en el comportamiento biológico de las neuronas y en la estructura del cerebro, y que es utilizada para resolver un amplio rango de problemas. 
+- Finalmente una Red Neuronal es un modelo matemático inspirado en el comportamiento biológico de las neuronas y en la estructura del cerebro, y que es utilizada para resolver un amplio rango de problemas. 
 
-# OBJETIVO
+# OBJETIVO FINAL
 
 • Representación gráfica de 3 capas
 • Cálculo de las salidas en cada capa
 • Criterio: suma del error cuadrático instantáneo
 
 
-# RESUMEN
+# CONCLUSIÒN
 En este trabajo de investigaciòn, descubrió las redes neuronales artificiales para el aprendizaje automático.
 
 # MUCHAS GRACIAS...!
