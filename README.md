@@ -11,6 +11,12 @@ Implementación de las soluciones de Machine Learning mediante una aplicación W
 ![image](https://user-images.githubusercontent.com/55814963/122267311-59b42700-cea0-11eb-80a8-cf841571e81c.png) 
 ![image](https://user-images.githubusercontent.com/55814963/122267088-19ed3f80-cea0-11eb-9764-fedbecdbcf5a.png)
 
+# AGRADECIMIENTO
+
+Prof. Giancarlo Valencia 
+
+Un gran docente por la capacidad y carisma que entrega en la enseñanza a sus estudiantes.
+![image](https://user-images.githubusercontent.com/55814963/122269485-e1029a00-cea2-11eb-8fb1-c9e9918e3844.png)
 
 
 # INTRODUCCIÒN
@@ -58,13 +64,15 @@ En este trabajo se realizó y aplicó el algoritmo de la inteligencia artificial
 
 Hemos realizado otro trabajo para profundizar más la investigación, eligiendo una empresa de telecomunicación, que lo que busca es reducir la tasa de deserción de los clientes a cuanto su servicio y con nuestro modelo buscamos informar cuales clientes están cerca de retirarse.
 
+![image](https://user-images.githubusercontent.com/55814963/122268912-45712980-cea2-11eb-8bb4-bf5130da5f79.png)
 
 
 # REGIONES POR CAPAS 
 
 ![image](https://user-images.githubusercontent.com/55814963/122268248-756bfd00-cea1-11eb-8d07-90ef8012650d.png)
 
-# ARQUITECTURA
+# ARQUITECTURA DE PERCEPTRÒN MULTICAPA
+
 Arquitectura de un perceptrón multicapa (PMC) con dos capas ocultas
 ![image](https://user-images.githubusercontent.com/55814963/122268328-8d438100-cea1-11eb-929e-3c5faeea7399.png)
 
@@ -74,13 +82,17 @@ Arquitectura de un perceptrón multicapa (PMC) con dos capas ocultas
 
 Finalmente una Red Neuronal es un modelo matemático inspirado en el comportamiento biológico de las neuronas y en la estructura del cerebro, y que es utilizada para resolver un amplio rango de problemas. 
 
+# OBJETIVO
 
+• Representación gráfica de 3 capas
+• Cálculo de las salidas en cada capa
+• Criterio: suma del error cuadrático instantáneo
 
-
-# CLASIFICACIÒN
 
 # RESUMEN
 En este trabajo de investigaciòn, descubrió las redes neuronales artificiales para el aprendizaje automático.
 
+# MUCHAS GRACIAS...!
 
+![image](https://user-images.githubusercontent.com/55814963/122269113-76e9f500-cea2-11eb-99ed-7bbf207f1491.png)
 
